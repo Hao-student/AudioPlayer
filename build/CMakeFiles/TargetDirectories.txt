@@ -1,0 +1,3 @@
+C:/Users/HAOPING/Desktop/CMakeTest/alAudioPlayer/build/CMakeFiles/alAudioPlayer.dir
+C:/Users/HAOPING/Desktop/CMakeTest/alAudioPlayer/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/HAOPING/Desktop/CMakeTest/alAudioPlayer/build/CMakeFiles/ZERO_CHECK.dir

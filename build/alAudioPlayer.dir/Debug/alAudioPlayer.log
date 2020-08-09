@@ -1,0 +1,8 @@
+﻿  Building Custom Rule C:/Users/HAOPING/Desktop/CMakeTest/alAudioPlayer/CMakeLists.txt
+  alAudioPlayer.cpp
+C:\Users\HAOPING\Desktop\CMakeTest\alAudioPlayer\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\HAOPING\Desktop\CMakeTest\alAudioPlayer\alAudioPlayer.cpp(25,46): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HAOPING\Desktop\CMakeTest\alAudioPlayer\alAudioPlayer.cpp(59,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\HAOPING\Desktop\CMakeTest\alAudioPlayer\alAudioPlayer.cpp(121,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HAOPING\Desktop\CMakeTest\alAudioPlayer\alAudioPlayer.cpp(180,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  alAudioPlayer.vcxproj -> C:\Users\HAOPING\Desktop\CMakeTest\alAudioPlayer\build\Debug\alAudioPlayer.exe
